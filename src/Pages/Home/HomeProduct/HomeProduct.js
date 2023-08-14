@@ -31,7 +31,7 @@ const HomeProduct = ({ homeProducts }) => {
       <div className='text-center'>
         <Link to="/product" className="text-white">
           <button className="bg-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-sky-500 rounded text-lg mt-6">
-            Contract
+            View all
           </button>
         </Link>
       </div>
